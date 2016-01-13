@@ -187,8 +187,8 @@ table.full-button-reverse td a {font-weight: bold; text-decoration: none; font-f
 
 /* CUSTOM */
 
-.when {padding-bottom:20px;font-family: Helvetica, Arial, sans-serif;font-size:16px;text-transform:uppercase;font-weight:bold;}
-.when-copy {padding: 0 0 20px 25px; font-size: 12px;line-height:18px; font-family: Helvetica, Arial, sans-serif; font-weight: normal;}
+.when {padding-bottom:10px;font-family: Helvetica, Arial, sans-serif;font-size:16px;text-transform:uppercase;font-weight:bold;}
+.when-copy {padding: 0 0 10px 25px; font-size: 12px;line-height:18px; font-family: Helvetica, Arial, sans-serif; font-weight: normal;}
 .where {padding:0;font-family: Helvetica, Arial, sans-serif;font-size:16px;text-transform:uppercase;font-weight:bold;}
 .where-copy {padding: 0 0 5px 25px; font-size: 12px;line-height:18px; font-family: Helvetica, Arial, sans-serif; font-weight: normal;}
 .lede {font-size: 18px; line-height: 28px;}
